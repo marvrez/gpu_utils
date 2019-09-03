@@ -1,4 +1,7 @@
+extern "C" {
 #include "device_query.h"
+}
+
 #include "cuda_runtime.h"
 
 #include <stdio.h>
