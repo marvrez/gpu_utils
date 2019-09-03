@@ -2,6 +2,11 @@
 
 This repo contains utilities and tools for CUDA capable devices to avoid reinventing the wheel.
 
+## Dependencies
+
+* [CUDA Toolkit](https://developer.nvidia.com/cuda-downloads)
+* [gcc](https://gcc.gnu.org/)
+
 ## Installation
 
 Copy-paste and execute the following lines in a terminal
